@@ -1,4 +1,16 @@
 {
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/decorations/anvil_compat": {
+    "criteria": {
+      "has_item": "2024-12-25 21:19:45 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2024-12-25 20:47:48 +0000"
@@ -20,6 +32,12 @@
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-25 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-25 21:20:14 +0000"
     },
     "done": true
   },
@@ -53,6 +71,18 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-25 21:20:22 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-25 20:47:48 +0000"
@@ -74,6 +104,12 @@
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2024-12-25 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2024-12-25 21:19:45 +0000"
     },
     "done": true
   },
@@ -107,6 +143,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-25 21:19:45 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-12-25 20:47:48 +0000"
@@ -131,6 +173,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2024-12-25 21:19:45 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2024-12-25 20:47:48 +0000"
@@ -140,6 +188,12 @@
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2024-12-25 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-25 21:20:16 +0000"
     },
     "done": true
   },
@@ -161,15 +215,33 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-25 21:08:41 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_trim": {
     "criteria": {
       "has_planks": "2024-12-25 20:47:48 +0000"
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "rainforest": "2024-12-25 21:18:43 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2024-12-25 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2024-12-25 21:20:16 +0000"
     },
     "done": true
   },
@@ -191,6 +263,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 21:20:16 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
     "criteria": {
       "has_items": "2024-12-25 20:47:48 +0000"
@@ -209,12 +287,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-25 21:08:39 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2024-12-25 20:47:48 +0000",
       "has_fillet_knife": "2024-12-25 20:47:48 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "rainforest": "2024-12-25 21:18:43 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
@@ -277,9 +367,27 @@
     },
     "done": false
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
+  },
   "byg:root": {
     "criteria": {
       "tick": "2024-12-25 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-25 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-12-25 21:19:45 +0000"
     },
     "done": true
   },
@@ -320,6 +428,18 @@
     },
     "done": false
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-25 21:20:16 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-25 20:47:48 +0000"
@@ -353,6 +473,12 @@
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2024-12-25 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2024-12-25 21:19:45 +0000"
     },
     "done": true
   },
@@ -398,6 +524,24 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-25 21:08:39 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2024-12-25 20:47:48 +0000"
@@ -440,6 +584,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2024-12-25 20:47:48 +0000",
@@ -456,6 +606,12 @@
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-12-25 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_small_flowers_with_knife": {
+    "criteria": {
+      "has_item": "2024-12-25 21:20:22 +0000"
     },
     "done": true
   },
@@ -476,6 +632,24 @@
       "has_items": "2024-12-25 20:47:48 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-25 21:08:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
@@ -508,6 +682,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-25 20:47:48 +0000"
@@ -517,6 +697,12 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2024-12-25 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2024-12-25 21:20:16 +0000"
     },
     "done": true
   },
@@ -561,6 +747,12 @@
       "has_template": "2024-12-25 20:47:48 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
@@ -626,6 +818,18 @@
       "has_pickaxe": "2024-12-25 20:47:48 +0000"
     },
     "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2024-12-25 21:19:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 21:20:20 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3120
 }

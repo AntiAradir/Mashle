@@ -1286,3 +1286,117 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 21:06:42.083] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/160739ca-99d2-4b07-ba87-d078cd9bcf36 downloaded
 [25Dec2024 21:06:42.096] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player EJCP201024[82d6df74-75bc-3b16-9a3d-c1aef77dbc37]
 [25Dec2024 21:06:42.098] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/82d6df74-75bc-3b16-9a3d-c1aef77dbc37
+[25Dec2024 21:08:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[25Dec2024 21:08:31.105] [Server thread/WARN] [tombstone/]: The death event of the player EJCP201024 was canceled by another mod
+[25Dec2024 21:08:31.180] [Server thread/INFO] [tombstone/]: The player EJCP201024 has successfully been saved
+[25Dec2024 21:08:39.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 walked into danger zone due to Skeleton
+[25Dec2024 21:08:39.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 has made the advancement [Your First Grave]
+[25Dec2024 21:08:41.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 has made the advancement [The Most Useful Key]
+[25Dec2024 21:08:45.428] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5584dd41
+[25Dec2024 21:08:45.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiAlther[/127.247.15.48:55687] logged in with entity id 2431 at (-3.300000011920929, 108.0, -6.879988339166802)
+[25Dec2024 21:08:45.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to AntiAlther
+[25Dec2024 21:08:45.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to AntiAlther
+[25Dec2024 21:08:45.479] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to AntiAlther
+[25Dec2024 21:08:45.479] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to AntiAlther
+[25Dec2024 21:08:45.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to AntiAlther
+[25Dec2024 21:08:45.504] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to AntiAlther
+[25Dec2024 21:08:45.505] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to AntiAlther
+[25Dec2024 21:08:45.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther joined the game
+[25Dec2024 21:08:45.856] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player AntiAlther just logged in with id 29e5b90a-c008-3d2b-923c-79d9a69295a9
+[25Dec2024 21:08:45.869] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player AntiAlther[29e5b90a-c008-3d2b-923c-79d9a69295a9]
+[25Dec2024 21:08:45.872] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player AntiAlther[29e5b90a-c008-3d2b-923c-79d9a69295a9]
+[25Dec2024 21:08:46.334] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AntiAlther (18)
+[25Dec2024 21:08:46.337] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AntiAlther
+[25Dec2024 21:08:51.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 29e5b90a-c008-3d2b-923c-79d9a69295a9
+[25Dec2024 21:08:52.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 29e5b90a-c008-3d2b-923c-79d9a69295a9
+[25Dec2024 21:08:52.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AntiAlther (29e5b90a-c008-3d2b-923c-79d9a69295a9) successfully connected to voice chat
+[25Dec2024 21:09:42.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [Ice Bucket Challenge]
+[25Dec2024 21:09:43.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [Shiny Rocks!]
+[25Dec2024 21:09:43.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [Discount Cobblestone]
+[25Dec2024 21:10:16.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [Monster Hunter]
+[25Dec2024 21:10:30.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EJCP201024 was kicked for floating too long!
+[25Dec2024 21:10:30.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EJCP201024 lost connection: Flying is not enabled on this server
+[25Dec2024 21:10:30.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 left the game
+[25Dec2024 21:10:30.248] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EJCP201024
+[25Dec2024 21:10:30.249] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player EJCP201024[82d6df74-75bc-3b16-9a3d-c1aef77dbc37]
+[25Dec2024 21:11:47.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [Knapit!]
+[25Dec2024 21:11:47.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[25Dec2024 21:11:47.359] [Server thread/WARN] [tombstone/]: The death event of the player AntiAlther was canceled by another mod
+[25Dec2024 21:11:47.389] [Server thread/INFO] [tombstone/]: The player AntiAlther has successfully been saved
+[25Dec2024 21:11:59.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther was slain by Zombie
+[25Dec2024 21:11:59.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [Your First Grave]
+[25Dec2024 21:12:01.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [The Most Useful Key]
+[25Dec2024 21:12:09.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[25Dec2024 21:12:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
+[25Dec2024 21:15:05.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[25Dec2024 21:15:09.593] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:15:09.594] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:15:09.594] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:15:09.595] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:15:20.864] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[25Dec2024 21:15:46.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[25Dec2024 21:16:42.542] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:16:42.548] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:16:42.549] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:16:42.549] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Dec2024 21:17:31.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [Sweet Dreams]
+[25Dec2024 21:17:33.222] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@458a8430
+[25Dec2024 21:17:33.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EJCP201024[/127.26.31.78:36567] logged in with entity id 5170 at (-5.306263385546359, 108.17675927506424, -5.962889417729317)
+[25Dec2024 21:17:33.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EJCP201024
+[25Dec2024 21:17:33.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EJCP201024
+[25Dec2024 21:17:33.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EJCP201024
+[25Dec2024 21:17:33.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EJCP201024
+[25Dec2024 21:17:33.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EJCP201024
+[25Dec2024 21:17:33.247] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EJCP201024
+[25Dec2024 21:17:33.247] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EJCP201024
+[25Dec2024 21:17:33.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 joined the game
+[25Dec2024 21:17:33.349] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EJCP201024 just logged in with id 82d6df74-75bc-3b16-9a3d-c1aef77dbc37
+[25Dec2024 21:17:33.359] [ForkJoinPool-4-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player EJCP201024[82d6df74-75bc-3b16-9a3d-c1aef77dbc37]
+[25Dec2024 21:17:33.362] [ForkJoinPool-4-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EJCP201024
+[25Dec2024 21:17:34.307] [ForkJoinPool-4-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EJCP201024
+[25Dec2024 21:17:40.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[25Dec2024 21:17:50.055] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EJCP201024 (18)
+[25Dec2024 21:17:50.057] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EJCP201024
+[25Dec2024 21:17:59.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[25Dec2024 21:18:03.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
+[25Dec2024 21:18:23.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EJCP201024 was kicked for floating too long!
+[25Dec2024 21:18:23.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EJCP201024 lost connection: Flying is not enabled on this server
+[25Dec2024 21:18:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 left the game
+[25Dec2024 21:18:23.996] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EJCP201024
+[25Dec2024 21:18:23.996] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player EJCP201024[82d6df74-75bc-3b16-9a3d-c1aef77dbc37]
+[25Dec2024 21:18:24.073] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Dec2024 21:18:28.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AntiAlther a server operator
+[25Dec2024 21:18:36.341] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5332272b
+[25Dec2024 21:18:36.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EJCP201024[/127.26.31.78:44959] logged in with entity id 5566 at (-5.306263385546359, 108.17675927506424, -5.962889417729317)
+[25Dec2024 21:18:36.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EJCP201024
+[25Dec2024 21:18:36.385] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EJCP201024
+[25Dec2024 21:18:36.386] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EJCP201024
+[25Dec2024 21:18:36.390] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EJCP201024
+[25Dec2024 21:18:36.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EJCP201024
+[25Dec2024 21:18:36.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EJCP201024
+[25Dec2024 21:18:36.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EJCP201024
+[25Dec2024 21:18:36.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 joined the game
+[25Dec2024 21:18:36.610] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EJCP201024 just logged in with id 82d6df74-75bc-3b16-9a3d-c1aef77dbc37
+[25Dec2024 21:18:36.634] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player EJCP201024[82d6df74-75bc-3b16-9a3d-c1aef77dbc37]
+[25Dec2024 21:18:36.636] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EJCP201024
+[25Dec2024 21:18:36.771] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EJCP201024
+[25Dec2024 21:18:37.198] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EJCP201024 (18)
+[25Dec2024 21:18:37.199] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EJCP201024
+[25Dec2024 21:18:42.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiAlther: Teleported EJCP201024 to AntiAlther]
+[25Dec2024 21:19:01.616] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 82d6df74-75bc-3b16-9a3d-c1aef77dbc37
+[25Dec2024 21:19:02.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 82d6df74-75bc-3b16-9a3d-c1aef77dbc37
+[25Dec2024 21:19:02.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EJCP201024 (82d6df74-75bc-3b16-9a3d-c1aef77dbc37) successfully connected to voice chat
+[25Dec2024 21:19:12.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiAlther: Set own game mode to Creative Mode]
+[25Dec2024 21:19:20.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [A Big Stick]
+[25Dec2024 21:19:25.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiAlther: Set own game mode to Survival Mode]
+[25Dec2024 21:19:44.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [Plant Based Tool Bindings]
+[25Dec2024 21:19:45.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 has made the advancement [A Little Hot Rod Red]
+[25Dec2024 21:20:36.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther has made the advancement [And My Axe!]
+[25Dec2024 21:20:52.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EJCP201024 lost connection: Disconnected
+[25Dec2024 21:20:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 left the game
+[25Dec2024 21:20:52.455] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EJCP201024
+[25Dec2024 21:20:52.455] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player EJCP201024[82d6df74-75bc-3b16-9a3d-c1aef77dbc37]
+[25Dec2024 21:24:49.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiAlther lost connection: Disconnected
+[25Dec2024 21:24:49.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther left the game
+[25Dec2024 21:24:49.953] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AntiAlther
+[25Dec2024 21:24:49.953] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player AntiAlther[29e5b90a-c008-3d2b-923c-79d9a69295a9]
