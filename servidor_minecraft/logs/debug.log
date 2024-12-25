@@ -12642,3 +12642,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 21:47:14.803] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AntiAlther
 [25Dec2024 21:47:14.803] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AntiAlther
 [25Dec2024 21:47:14.804] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player AntiAlther[29e5b90a-c008-3d2b-923c-79d9a69295a9]
+[25Dec2024 21:50:19.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:50:20.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 21:55:20.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:55:20.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
