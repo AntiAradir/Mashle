@@ -1400,3 +1400,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 21:24:49.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther left the game
 [25Dec2024 21:24:49.953] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AntiAlther
 [25Dec2024 21:24:49.953] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player AntiAlther[29e5b90a-c008-3d2b-923c-79d9a69295a9]
+[25Dec2024 21:31:25.883] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@658ac096
+[25Dec2024 21:31:25.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EJCP201024[/127.26.31.78:34699] logged in with entity id 6793 at (188.43300148333006, 128.0, 9.654814112659164)
+[25Dec2024 21:31:25.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EJCP201024
+[25Dec2024 21:31:25.903] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EJCP201024
+[25Dec2024 21:31:25.904] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EJCP201024
+[25Dec2024 21:31:25.904] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EJCP201024
+[25Dec2024 21:31:25.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EJCP201024
+[25Dec2024 21:31:25.919] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EJCP201024
+[25Dec2024 21:31:25.920] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EJCP201024
+[25Dec2024 21:31:25.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 joined the game
+[25Dec2024 21:31:26.000] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EJCP201024 just logged in with id 82d6df74-75bc-3b16-9a3d-c1aef77dbc37
+[25Dec2024 21:31:26.009] [ForkJoinPool-4-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player EJCP201024[82d6df74-75bc-3b16-9a3d-c1aef77dbc37]
+[25Dec2024 21:31:26.010] [ForkJoinPool-4-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EJCP201024
+[25Dec2024 21:31:27.073] [ForkJoinPool-4-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EJCP201024
+[25Dec2024 21:31:42.651] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EJCP201024 (18)
+[25Dec2024 21:31:42.652] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EJCP201024
+[25Dec2024 21:31:45.310] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a3f08ec
+[25Dec2024 21:31:45.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiAlther[/127.247.15.48:55691] logged in with entity id 6991 at (189.30631264516123, 129.0, 6.902468951123219)
+[25Dec2024 21:31:45.337] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to AntiAlther
+[25Dec2024 21:31:45.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to AntiAlther
+[25Dec2024 21:31:45.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to AntiAlther
+[25Dec2024 21:31:45.339] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to AntiAlther
+[25Dec2024 21:31:45.341] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to AntiAlther
+[25Dec2024 21:31:45.344] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to AntiAlther
+[25Dec2024 21:31:45.344] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to AntiAlther
+[25Dec2024 21:31:45.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiAlther joined the game
+[25Dec2024 21:31:45.530] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player AntiAlther just logged in with id 29e5b90a-c008-3d2b-923c-79d9a69295a9
+[25Dec2024 21:31:45.533] [ForkJoinPool-4-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player AntiAlther[29e5b90a-c008-3d2b-923c-79d9a69295a9]
+[25Dec2024 21:31:45.533] [ForkJoinPool-4-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player AntiAlther[29e5b90a-c008-3d2b-923c-79d9a69295a9]
+[25Dec2024 21:31:45.906] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AntiAlther (18)
+[25Dec2024 21:31:45.907] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AntiAlther
+[25Dec2024 21:31:52.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 29e5b90a-c008-3d2b-923c-79d9a69295a9
+[25Dec2024 21:31:53.903] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 29e5b90a-c008-3d2b-923c-79d9a69295a9
+[25Dec2024 21:31:53.903] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AntiAlther (29e5b90a-c008-3d2b-923c-79d9a69295a9) successfully connected to voice chat
+[25Dec2024 21:32:28.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 82d6df74-75bc-3b16-9a3d-c1aef77dbc37
+[25Dec2024 21:32:29.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 82d6df74-75bc-3b16-9a3d-c1aef77dbc37
+[25Dec2024 21:32:29.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EJCP201024 (82d6df74-75bc-3b16-9a3d-c1aef77dbc37) successfully connected to voice chat
+[25Dec2024 21:32:46.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EJCP201024 lost connection: Disconnected
+[25Dec2024 21:32:46.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EJCP201024 left the game
+[25Dec2024 21:32:46.813] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EJCP201024
+[25Dec2024 21:32:46.814] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player EJCP201024[82d6df74-75bc-3b16-9a3d-c1aef77dbc37]
